@@ -193,7 +193,7 @@ Antes de entregar, verifique:
 - [x] Código CSS valida sem erros
 - [x] Testado em 3 tamanhos de tela diferentes
 - [x] Pelo menos 5-6 oportunidades adicionadas
-- [] README.md criado explicando seu projeto
+- [x] README.md criado explicando seu projeto
 - [x] Cores e design personalizados
 - [x] Código organizado e comentado
 - [x] Todos os links testados

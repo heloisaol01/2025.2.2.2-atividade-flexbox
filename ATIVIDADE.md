@@ -89,17 +89,17 @@ Criar uma landing page responsiva utilizando HTML5 e CSS3 com Flexbox, apresenta
 - [x] Validar CSS no [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ### 9. Testes e Responsividade
-- [ ] Testar em Chrome DevTools (diferentes dispositivos)
-- [ ] Verificar em smartphone real
-- [ ] Testar em tablet (ou simulador)
-- [ ] Verificar em desktop (diferentes resoluções)
-- [ ] Ajustar breakpoints conforme necessário
+- [x] Testar em Chrome DevTools (diferentes dispositivos)
+- [x] Verificar em smartphone real
+- [x] Testar em tablet (ou simulador)
+- [x] Verificar em desktop (diferentes resoluções)
+- [x] Ajustar breakpoints conforme necessário
 
 ### 10. Documentação
-- [ ] Criar arquivo README.md explicando o projeto
-- [ ] Documentar fontes de pesquisa das oportunidades
-- [ ] Listar tecnologias utilizadas
-- [ ] Incluir screenshots ou link para visualização
+- [x] Criar arquivo README.md explicando o projeto
+- [x] Documentar fontes de pesquisa das oportunidades
+- [x] Listar tecnologias utilizadas
+- [x] Incluir screenshots ou link para visualização
 
 ## 📚 Recursos Úteis
 
